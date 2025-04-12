@@ -1,4 +1,3 @@
-Here’s a clean and beginner-friendly `README.md` for your Pokémon Data Viewer project:
 
 ---
 
